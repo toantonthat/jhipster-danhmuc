@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.greenglobal.jhispter"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "com.greenglobal.jhispter",
+    "packageFolder": "com/greenglobal/jhispter",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "oracle",
+    "prodDatabaseType": "oracle",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2VmYTE1ZjhkZjA4NWI3YmZiYWNmMzAzYmY4YzcyZmQwYjRkYTNiYWUxZmE2ZTkwYTUzNWMzYTgxNzYwZjVhOGZiMzM3NzQ3ZmQ1ZGIzZDZkNmJmOTVkOWUwZmU4NTg5MTgzMDRkNmZhZWY1NzA0ZmU1NmU4NjJiMWM1ZjNhYjg=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
